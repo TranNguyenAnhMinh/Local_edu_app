@@ -1,0 +1,431 @@
+[
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Văn học dân gian Lâm Đồng thường được truyền lại như thế nào?",
+    "correctAnswers": ["Bằng con đường truyền miệng"],
+    "incorrectAnswers": [
+      "Qua sách vở và báo chí",
+      "Truyền qua các phương tiện truyền thông đại chúng",
+      "Dưới dạng các bức tranh minh họa"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Thần thoại của các dân tộc thiểu số ở Lâm Đồng thường kể về điều gì?",
+    "correctAnswers": [
+      "Các vị thần sáng tạo thế giới tự nhiên",
+      "Nguyên nguồn gốc của thế giới tự nhiên"
+    ],
+    "incorrectAnswers": [
+      "Lịch sử chiến tranh của vùng đất",
+      "Các sự kiện chính trị trong vùng",
+      "Cuộc sống hàng ngày của người dân"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Văn học dân gian Lâm Đồng phản ánh điều gì?",
+    "correctAnswers": [
+      "Đời sống tinh thần, bản sắc văn hoá, phong tục tập quán của người xưa"
+    ],
+    "incorrectAnswers": [
+      "Các sự kiện lịch sử quan trọng",
+      "Những công trình kiến trúc nổi tiếng",
+      "Các cuộc cải cách xã hội"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Văn học dân gian Lâm Đồng có đặc điểm gì?",
+    "correctAnswers": [
+      "Đa sắc tộc",
+      "Đa dạng về đề tài",
+      "Đặc sắc về nội dung và nghệ thuật"
+    ],
+    "incorrectAnswers": [
+      "Tính chất một dòng văn học",
+      "Sự tương đồng với văn học các khu vực khác",
+      "Thiên về một loại hình nghệ thuật cụ thể"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Theo quan niệm của văn học dân gian Lâm Đồng, con người là gì?",
+    "correctAnswers": ["Một trong muôn loài của đời sống tự nhiên"],
+    "incorrectAnswers": [
+      "Thiên tai vô thần",
+      "Chủ thể duy nhất kiểm soát thế giới tự nhiên",
+      "Sự hiện thân của các vị thần thời xa xưa"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Truyền thống văn học dân gian Lâm Đồng thường được diễn ra ở đâu?",
+    "correctAnswers": [
+      "Trên nương rẫy, bên suối, trong các lễ hội truyền thống"
+    ],
+    "incorrectAnswers": [
+      "Trong các thư viện và viện bảo tàng",
+      "Tại các trường học và trung tâm văn hóa",
+      "Trên các trang mạng và mạng xã hội"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Văn học dân gian Lâm Đồng phản ánh những khía cạnh nào của đời sống xã hội?",
+    "correctAnswers": [
+      "Phong tục, tập quán",
+      "Cách nghĩ, cảm nhận",
+      "Bản sắc văn hoá"
+    ],
+    "incorrectAnswers": [
+      "Các chiến tranh lịch sử",
+      "Những phát triển kinh tế hiện đại",
+      "Các di sản kiến trúc"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Thần thoại của các dân tộc thiểu số ở Lâm Đồng thường kể về điều gì?",
+    "correctAnswers": ["Các vị thần sáng tạo thế giới tự nhiên"],
+    "incorrectAnswers": [
+      "Lịch sử chiến tranh của vùng đất",
+      "Các sự kiện chính trị trong vùng",
+      "Cuộc sống hàng ngày của người dân"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Văn học dân gian Lâm Đồng thường thể hiện những đặc điểm nào?",
+    "correctAnswers": [
+      "Tính đa sắc tộc",
+      "Đa dạng về đề tài",
+      "Đặc sắc về nghệ thuật"
+    ],
+    "incorrectAnswers": [
+      "Chỉ tập trung vào một đề tài cụ thể",
+      "Sự trùng lặp về nội dung với văn học khác",
+      "Thiên về một loại hình nghệ thuật duy nhất"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Văn học dân gian Lâm Đồng được thể hiện chủ yếu thông qua phương tiện truyền miệng hay không?",
+    "correctAnswers": ["Có, thông qua con đường truyền miệng"],
+    "incorrectAnswers": [
+      "Không, chỉ thông qua việc viết và xuất bản sách",
+      "Chủ yếu thông qua các phương tiện truyền thông hiện đại",
+      "Thể hiện qua các di sản kiến trúc"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Theo truyền thuyết, tại sao nhiều địa danh ở Lâm Đồng được đặt tên theo những câu chuyện cổ tích?",
+    "correctAnswers": [
+      "Có vai trò quan trọng trong cuộc sống cộng đồng và có dấu tích lịch sử đáng kể."
+    ],
+    "incorrectAnswers": [
+      "Để tạo nên sự huyền bí cho vùng đất.",
+      "Theo chỉ đạo của người đứng đầu cộng đồng.",
+      "Do ảnh hưởng từ truyền thuyết nổi tiếng ở các khu vực khác."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Truyền thuyết về các địa danh ở Lâm Đồng thường có những yếu tố chung nào?",
+    "correctAnswers": [
+      "Sự kiện lớn ảnh hưởng đến lịch sử cộng đồng.",
+      "Dấu tích lưu lại đến ngày nay."
+    ],
+    "incorrectAnswers": [
+      "Chỉ kể về những sự kiện huyền bí và không có thực.",
+      "Không có bất kỳ yếu tố chung nào, mỗi truyền thuyết đều khác nhau."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Trong truyền thuyết, việc kể lại sự kiện lớn thường có tác dụng gì đối với cộng đồng?",
+    "correctAnswers": ["Thể hiện truyền thống đoàn kết và sức mạnh cộng đồng."],
+    "incorrectAnswers": [
+      "Tạo nên sự giả tưởng và mơ hồ về quá khứ.",
+      "Không có tác dụng gì đặc biệt đối với cộng đồng."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Trong truyền thuyết của dân tộc thiểu số ở Lâm Đồng, những câu chuyện thường tập trung vào điều gì?",
+    "correctAnswers": [
+      "Sự tích của các núi, sông, suối và làng có vai trò quan trọng trong cộng đồng.",
+      "Sự kiện lớn ảnh hưởng đến lịch sử và cuộc sống cộng đồng."
+    ],
+    "incorrectAnswers": [
+      "Những câu chuyện không liên quan tới thực tế xã hội.",
+      "Chỉ nhấn mạnh vào sự huyền bí và ma quái."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Trong truyền thuyết, việc truyền đi những sự kiện lớn có ý nghĩa gì trong việc xây dựng cộng đồng?",
+    "correctAnswers": [
+      "Góp phần hình thành và phát triển truyền thống đoàn kết và sức mạnh cộng đồng."
+    ],
+    "incorrectAnswers": [
+      "Tạo nên sự kỳ diệu và phi thực tế trong tâm trí người nghe.",
+      "Không có ý nghĩa gì quan trọng."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Trong truyện cổ tích thần kì ở Lâm Đồng, nhân vật mồ côi thường có những đặc điểm nào?",
+    "correctAnswers": ["Nghèo khổ và bất hạnh, tự mình kiếm sống."],
+    "incorrectAnswers": [
+      "Chăm chỉ, thật thà, siêng năng, trung thực.",
+      "Diệt cọp, diệt đại bàng, diệt ma quái.",
+      "Sản phẩm của cuộc sống gắn bó, hoà mình với tự nhiên."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Truyện cổ tích loài vật ở Lâm Đồng thường phản ánh điều gì?",
+    "correctAnswers": ["Cuộc đấu tranh giữa thiện và ác."],
+    "incorrectAnswers": [
+      "Thống trị và bị trị của thế giới con người.",
+      "Giải thích đặc điểm của một số loài vật.",
+      "Khát vọng về cuộc sống no ấm và hạnh phúc."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Trong truyện cổ tích thần kì ở Lâm Đồng, nhân vật mang lốt thường có đặc điểm nào?",
+    "correctAnswers": ["Sản phẩm của cuộc sống gắn bó, hoà mình với tự nhiên."],
+    "incorrectAnswers": [
+      "Chăm chỉ, thật thà, siêng năng, trung thực.",
+      "Diệt cọp, diệt đại bàng, diệt ma quái.",
+      "Luôn mang phẩm chất tốt đẹp, sẵn sàng hi sinh bảo vệ cộng đồng."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Truyện cổ tích loài vật ở Lâm Đồng thường tập trung vào điều gì?",
+    "correctAnswers": ["Giải thích đặc điểm của một số loài vật."],
+    "incorrectAnswers": [
+      "Cuộc đấu tranh giữa thiện và ác.",
+      "Phản ánh thế giới con người.",
+      "Khát vọng về cuộc sống no ấm và hạnh phúc."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Những truyện cổ tích loài vật ở Lâm Đồng thường thể hiện điều gì về con người?",
+    "correctAnswers": ["Thế giới loài vật phản chiếu thế giới con người."],
+    "incorrectAnswers": [
+      "Cuộc đấu tranh giữa thiện và ác.",
+      "Khát vọng về cuộc sống no ấm và hạnh phúc.",
+      "Sự tích về niềm vinh quang chiến thắng."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Nhân vật mồ côi trong truyện cổ tích thần kì ở Lâm Đồng thường có phẩm chất nào?",
+    "correctAnswers": ["Chăm chỉ, thật thà, siêng năng, trung thực."],
+    "incorrectAnswers": [
+      "Nghèo khổ và bất hạnh, tự mình kiếm sống.",
+      "Diệt cọp, diệt đại bàng, diệt ma quái.",
+      "Luôn mang phẩm chất tốt đẹp, sẵn sàng hi sinh bảo vệ cộng đồng."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Trong truyện cổ tích loài vật ở Lâm Đồng, những thông điệp chính nào thường được thể hiện?",
+    "correctAnswers": [
+      "Cuộc đấu tranh giữa thiện và ác.",
+      "Thế giới loài vật phản chiếu thế giới con người."
+    ],
+    "incorrectAnswers": [
+      "Giải thích đặc điểm của một số loài vật.",
+      "Khát vọng về cuộc sống no ấm và hạnh phúc."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Nhân vật mồ côi trong truyện cổ tích thần kì ở Lâm Đồng thường được mô tả như thế nào?",
+    "correctAnswers": [
+      "Nghèo khổ và bất hạnh, tự mình kiếm sống.",
+      "Luôn mang phẩm chất tốt đẹp, sẵn sàng hi sinh bảo vệ cộng đồng."
+    ],
+    "incorrectAnswers": [
+      "Chăm chỉ, thật thà, siêng năng, trung thực.",
+      "Diệt cọp, diệt đại bàng, diệt ma quái."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Truyện cổ tích loài vật ở Lâm Đồng thường có mục đích nào sau đây?",
+    "correctAnswers": [
+      "Thể hiện sự tương tác giữa loài vật và con người.",
+      "Truyền đạt những giá trị đạo đức và nhân văn."
+    ],
+    "incorrectAnswers": [
+      "Giải thích đặc điểm của một số loài vật.",
+      "Khát vọng về cuộc sống no ấm và hạnh phúc."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Trong truyện cổ tích thần kì ở Lâm Đồng, nhân vật mang lốt thường được mô tả như thế nào?",
+    "correctAnswers": ["Sản phẩm của cuộc sống gắn bó, hoà mình với tự nhiên."],
+    "incorrectAnswers": [
+      "Chăm chỉ, thật thà, siêng năng, trung thực.",
+      "Diệt cọp, diệt đại bàng, diệt ma quái.",
+      "Nghèo khổ và bất hạnh, tự mình kiếm sống."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Vì sao những sáng tác văn vần của dân tộc thiểu số ở Lâm Đồng được lưu truyền bằng con đường truyền miệng?",
+    "correctAnswers": [
+      "Kết cấu tương đối chặt chẽ, dễ ghi nhớ và thuận lợi cho việc lưu truyền trong cộng đồng."
+    ],
+    "incorrectAnswers": [
+      "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất.",
+      "Những hoạt động nghi lễ, tín ngưỡng và lễ hội.",
+      "Sự giáo dục và tôn trọng văn hóa bản địa."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Đặc điểm nào thường thấy trong những bài ca nghi lễ của dân tộc thiểu số ở Lâm Đồng?",
+    "correctAnswers": [
+      "Mời thần linh đến chứng giám lòng thành và cầu mưa thuận gió hoà."
+    ],
+    "incorrectAnswers": [
+      "Nội dung thể hiện tình cảm gia đình và tình cảm nam nữ.",
+      "Những hoạt động lao động sản xuất.",
+      "Những kinh nghiệm trong xây dựng cuộc sống và khuyên người lao động."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Trong văn vần dân gian ở Lâm Đồng, bài ca luật tục thường được sử dụng trong hoàn cảnh nào?",
+    "correctAnswers": [
+      "Được đọc lên trong các buổi phân xử các vấn đề xảy ra trong buôn làng và khuyên bảo con người về cách ứng xử."
+    ],
+    "incorrectAnswers": [
+      "Mời thần linh đến chứng giám lòng thành và cầu mưa thuận gió hoà.",
+      "Những hoạt động lao động sản xuất.",
+      "Những kinh nghiệm trong xây dựng cuộc sống và khuyên người lao động."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Các bài ca tình cảm trong văn vần dân gian Lâm Đồng thường thể hiện điều gì?",
+    "correctAnswers": [
+      "Tình cảm của con người, nhất là tình cảm gia đình và tình cảm nam nữ."
+    ],
+    "incorrectAnswers": [
+      "Những hoạt động nghi lễ, tín ngưỡng và lễ hội.",
+      "Những kinh nghiệm trong xây dựng cuộc sống và khuyên người lao động."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Nơi môi trường diễn xướng các bài văn vần thường được tìm thấy trong văn hóa dân gian Lâm Đồng là?",
+    "correctAnswers": [
+      "Trong nhà, bên bếp lửa, lúc lên nương rẫy hay bên suối."
+    ],
+    "incorrectAnswers": [
+      "Trong các nghi lễ truyền thống.",
+      "Bên cạnh các vườn rau và hoa.",
+      "Ở các trung tâm thương mại và kinh doanh."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Vì sao những bài văn vần của dân tộc thiểu số ở Lâm Đồng trở thành một nét văn hoá quan trọng trong cộng đồng?",
+    "correctAnswers": [
+      "Có kết cấu tương đối chặt chẽ, có vần, có điệu, dễ ghi nhớ và thuận lợi cho việc lưu truyền trong cộng đồng."
+    ],
+    "incorrectAnswers": [
+      "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất.",
+      "Những hoạt động nghi lễ, tín ngưỡng và lễ hội.",
+      "Sự giáo dục và tôn trọng văn hóa bản địa."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Tại sao việc diễn xướng các bài văn vần trong văn hóa dân gian Lâm Đồng thường tự do và linh hoạt?",
+    "correctAnswers": [
+      "Để họ có thể hát ở nhiều nơi khác nhau, như trong nhà, bên bếp lửa hay nơi làm việc."
+    ],
+    "incorrectAnswers": [
+      "Để họ có thể hát trong các nghi lễ truyền thống.",
+      "Để họ có thể hát ở những trung tâm giáo dục và văn hóa.",
+      "Để họ có thể hát ở những buổi biểu diễn chính thức."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleChoices",
+    "question": "Đặc điểm nào của bài ca tình cảm trong văn vần dân gian Lâm Đồng?",
+    "correctAnswers": [
+      "Thể hiện tình cảm qua hình thức đối đáp giữa nam và nữ."
+    ],
+    "incorrectAnswers": [
+      "Thể hiện những hoạt động nghi lễ và tín ngưỡng.",
+      "Thể hiện những kinh nghiệm trong xây dựng cuộc sống.",
+      "Thể hiện sự đoàn kết và cố gắng lao động của cộng đồng."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Những sáng tác văn vần của dân tộc Mạ, Cơ Ho, Chu Ru ở Lâm Đồng chủ yếu thuộc vào loại nào?",
+    "correctAnswers": ["Bài ca nghi lễ", "Bài ca luật tục", "Bài ca lao động"],
+    "incorrectAnswers": ["Bài ca tình cảm", "Bài ca hành động chính trị"]
+  },
+  {
+    "categoryName": "Chuyên đề 3",
+    "type": "multipleResponses",
+    "question": "Các bài văn vần của dân tộc thiểu số ở Lâm Đồng thường được trình bày như thế nào?",
+    "correctAnswers": [
+      "Kết hợp lời văn với giai điệu và nhạc cụ dân gian",
+      "Thể hiện giai điệu trữ tình"
+    ],
+    "incorrectAnswers": [
+      "Đọc lên như bản thảo văn bản",
+      "Biểu diễn bằng múa và vũ điệu"
+    ]
+  }
+]

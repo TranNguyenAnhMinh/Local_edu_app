@@ -1,0 +1,40 @@
+[
+  {
+    "categoryName": "Theme 1: Exploration of the Cosmos",
+    "type": "multipleChoices",
+    "question": "What is the closest star to our solar system?",
+    "correctAnswers": ["Proxima Centauri"],
+    "incorrectAnswers": ["Sirius", "Betelgeuse", "Alpha Centauri"]
+  },
+  {
+    "categoryName": "Theme 1: Exploration of the Cosmos",
+    "type": "multipleResponses",
+    "question": "What are the four inner planets in our solar system?",
+    "correctAnswers": ["Mercury", "Venus", "Earth", "Mars"],
+    "incorrectAnswers": ["Jupiter", "Saturn", "Uranus", "Neptune"]
+  },
+  {
+    "categoryName": "Theme 1: Exploration of the Cosmos",
+    "type": "picture",
+    "path": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Earth%27s_Location_in_the_Universe_SMALLER_%28JPEG%29.jpg/1280px-Earth%27s_Location_in_the_Universe_SMALLER_%28JPEG%29.jpg",
+    "question": "Identify the constellation Ursa Major (the Great Bear).",
+    "correctAnswers": ["This the the correct answer"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  },
+  {
+    "categoryName": "Theme 1: Exploration of the Cosmos",
+    "type": "video",
+    "path": "assets/videos/test.mp4",
+    "question": "Explain the formation of stars and planets.",
+    "correctAnswers": ["Nothing here hehe"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  },
+  {
+    "categoryName": "Theme 1: Exploration of the Cosmos",
+    "type": "audio",
+    "path": "assets/audio/sample.mp3",
+    "question": "Listen to a recording of the sounds of Jupiter's.",
+    "correctAnswers": ["Nothing here hehe"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  }
+]

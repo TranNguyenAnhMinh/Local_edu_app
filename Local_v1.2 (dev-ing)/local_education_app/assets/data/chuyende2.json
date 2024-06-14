@@ -1,0 +1,24 @@
+[
+  {
+    "categoryName": "Chuyên đề 2",
+    "type": "multipleChoices",
+    "question": "Theo bạn, dân tộc nào có số lượng đông nhất trong tỉnh Lâm Đồng?",
+    "correctAnswers": ["Cơ Ho"],
+    "incorrectAnswers": ["Mạ", "Chu Ru", "Xrê"]
+  },
+  {
+    "categoryName": "Chuyên đề 2",
+    "type": "multipleResponses",
+    "question": "Dân tộc nào tập trung nhiều ở thành phố Bảo Lộc và Bảo Lâm?",
+    "correctAnswers": ["Mạ"],
+    "incorrectAnswers": ["Cơ Ho", "Chu Ru", "Xrê"]
+  },
+  {
+    "categoryName": "Chuyên đề 2",
+    "type": "multipleChoices",
+    "question": "Ngôn ngữ nào được sử dụng bởi người thuộc dân tộc Chu Ru?",
+    "correctAnswers": ["Ma-lay-ô – Po-ly-nê-xi-a"],
+    "incorrectAnswers": ["Môn – Khmer", "Tiếng Chăm", "Ngữ hệ Nam Á"]
+  }
+ 
+]

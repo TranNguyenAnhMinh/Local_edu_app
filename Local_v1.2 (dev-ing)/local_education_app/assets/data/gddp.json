@@ -1,0 +1,299 @@
+[
+  {
+    "question": "Bao nhiêu dân tộc cư trú có ở tỉnh Lâm Đồng?",
+    "answers": {
+      "A) 7": false,
+      "B) 8": true,
+      "C) 9": false,
+      "D) 10": false
+    }
+  },
+  {
+    "question": "Dân tộc gốc Tây Nguyên chiếm bao nhiêu phần trăm dân số tỉnh Lâm Đồng?",
+    "answers": {
+      "A) 12.5%": false,
+      "B) 15%": false,
+      "C) 17.5%": false,
+      "D) 19.23%": true
+    }
+  },
+  {
+    "question": "Ở đâu tập trung nhiều người dân tộc Cơ Ho?",
+    "answers": {
+      "A) Đà Lạt": false,
+      "B) Di Linh": true,
+      "C) Đức Trọng": false,
+      "D) Lâm Hà": false
+    }
+  },
+  {
+    "question": "Nền kinh tế chính của người Cơ Ho là gì?",
+    "answers": {
+      "A) Đánh cá": false,
+      "B) Chăn nuôi gia súc": false,
+      "C) Trồng lúa, bắp, sắn": true,
+      "D) Làm gốm thô": false
+    }
+  },
+  {
+    "question": "Ngôn ngữ của người Cơ Ho thuộc nhóm ngôn ngữ nào?",
+    "answers": {
+      "A) Nam Á": false,
+      "B) Môn – Khmer": true,
+      "C) Nam Đảo": false,
+      "D) Mông Cổ": false
+    }
+  },
+  {
+    "question": "Nơi nào có nhiều người dân tộc Mạ?",
+    "answers": {
+      "A) Đà Lạt": false,
+      "B) Đam Rông": true,
+      "C) Lạc Dương": false,
+      "D) Lâm Hà": false
+    }
+  },
+  {
+    "question": "Trong nền kinh tế của người Mạ, loại rẫy chính là gì?",
+    "answers": {
+      "A) Rẫy đóng vai trò chủ yếu": false,
+      "B) Rẫy đa canh": true,
+      "C) Rẫy lúa": false,
+      "D) Rẫy bắp": false
+    }
+  },
+  {
+    "question": "Ngôn ngữ của người Mạ thuộc nhóm ngôn ngữ nào?",
+    "answers": {
+      "A) Mông Cổ": false,
+      "B) Môn – Khmer": true,
+      "C) Nam Á": false,
+      "D) Nam Đảo": false
+    }
+  },
+  {
+    "question": "Dân tộc Chu Ru tập trung chủ yếu ở đâu?",
+    "answers": {
+      "A) Đà Lạt": false,
+      "B) Đức Trọng": true,
+      "C) Đơn Dương": false,
+      "D) Di Linh": false
+    }
+  },
+  {
+    "question": "Đối với người Chu Ru, loại ruộng sình và ruộng khô là gì?",
+    "answers": {
+      "A) Loại ruộng nước": false,
+      "B) Loại ruộng đất canh tác": false,
+      "C) Loại ruộng nông nghiệp": false,
+      "D) Loại ruộng chăn nuôi": true
+    }
+  },
+  {
+    "question": "Đối với người Chu Ru, hoạt động chăn nuôi chủ yếu bao gồm gì?",
+    "answers": {
+      "A) Gia súc": true,
+      "B) Gia cầm": false,
+      "C) Cá": false,
+      "D) Gấu": false
+    }
+  },
+  {
+    "question": "Trong nghệ thuật dân gian, người Cơ Ho sử dụng những nhạc cụ nào?",
+    "answers": {
+      "A) Trống": false,
+      "B) Kèn": false,
+      "C) Đàn": false,
+      "D) Cồng chiêng": true
+    }
+  },
+  {
+    "question": "Trong nghệ thuật dân gian, người Mạ sử dụng những nhạc cụ gì?",
+    "answers": {
+      "A) Đàn": false,
+
+      "B) Trống": true,
+      "C) Kèn": false,
+      "D) Cồng chiêng": false
+    }
+  },
+  {
+    "question": "Trong nghệ thuật dân gian, người Chu Ru sử dụng những nhạc cụ gì?",
+    "answers": {
+      "A) Đàn": false,
+      "B) Kèn": false,
+      "C) Trống": true,
+      "D) Sáo": false
+    }
+  },
+  {
+    "question": "Loại trang phục truyền thống nào phổ biến trong người Cơ Ho?",
+    "answers": {
+      "A) Áo dài": false,
+      "B) Áo chui đầu": true,
+      "C) Áo sơ mi": false,
+      "D) Áo khoác": false
+    }
+  },
+  {
+    "question": "Loại trang phục truyền thống nào phổ biến trong người Mạ?",
+    "answers": {
+      "A) Áo dài": false,
+      "B) Áo chui đầu": false,
+      "C) Áo sơ mi": true,
+      "D) Áo khoác": false
+    }
+  },
+  {
+    "question": "Loại trang phục truyền thống nào phổ biến trong người Chu Ru?",
+    "answers": {
+      "A) Áo dài": false,
+      "B) Áo chui đầu": false,
+      "C) Áo sơ mi": true,
+      "D) Áo khoác": false
+    }
+  },
+  {
+    "question": "Nhà sàn dài của người Mạ thường được sử dụng để mục đích gì?",
+    "answers": {
+      "A) Sinh hoạt hàng ngày": true,
+      "B) Chăn nuôi gia súc": false,
+      "C) Trồng cây trái": false,
+      "D) Làm nơi cúng tế": false
+    }
+  },
+  {
+    "question": "Nhà sàn dài của người Cơ Ho thường được sử dụng để mục đích gì?",
+    "answers": {
+      "A) Sinh hoạt hàng ngày": false,
+      "B) Chăn nuôi gia súc": false,
+      "C) Trồng cây trái": false,
+      "D) Làm nơi cúng tế": true
+    }
+  },
+  {
+    "question": "Nhà sàn dài của người Chu Ru thường được sử dụng để mục đích gì?",
+    "answers": {
+      "A) Sinh hoạt hàng ngày": false,
+      "B) Chăn nuôi gia súc": true,
+      "C) Trồng cây trái": false,
+      "D) Làm nơi cúng tế": false
+    }
+  },
+  {
+    "question": "Loại đất đai chính mà người Mạ sử dụng là gì?",
+    "answers": {
+      "A) Đất đá vôi": false,
+      "B) Đất sét": false,
+      "C) Đất phù sa": false,
+      "D) Đất đỏ bazan": true
+    }
+  },
+  {
+    "question": "Loại đất đai chính mà người Cơ Ho sử dụng là gì?",
+    "answers": {
+      "A) Đất đá vôi": false,
+      "B) Đất sét": false,
+      "C) Đất phù sa": true,
+      "D) Đất đỏ bazan": false
+    }
+  },
+  {
+    "question": "Loại đất đai chính mà người Chu Ru sử dụng là gì?",
+    "answers": {
+      "A) Đất đá vôi": true,
+      "B) Đất sét": false,
+      "C) Đất phù sa": false,
+      "D) Đất đỏ bazan": false
+    }
+  },
+  {
+    "question": "Hình thức chế biến thức ăn của người Mạ chủ yếu là gì?",
+    "answers": {
+      "A) Nấu hấp": false,
+      "B) Nướng": false,
+      "C) Luộc": true,
+      "D) Rán": false
+    }
+  },
+  {
+    "question": "Hình thức chế biến thức ăn của người Cơ Ho chủ yếu là gì?",
+    "answers": {
+      "A) Nấu hấp": true,
+      "B) Nướng": false,
+      "C) Luộc": false,
+      "D) Rán": false
+    }
+  },
+  {
+    "question": "Hình thức chế biến thức ăn của người Chu Ru chủ yếu là gì?",
+    "answers": {
+      "A) Nấu hấp": false,
+      "B) Nướng": true,
+      "C) Luộc": false,
+      "D) Rán": false
+    }
+  },
+  {
+    "question": "Món ăn truyền thống nào phổ biến trong người Mạ?",
+    "answers": {
+      "A) Canh măng": false,
+      "B) Gỏi cuốn": false,
+      "C) Canh chua": true,
+      "D) Thịt kho tộ": false
+    }
+  },
+  {
+    "question": "Món ăn truyền thống nào phổ biến trong người Cơ Ho?",
+    "answers": {
+      "A) Canh măng": true,
+      "B) Gỏi cuốn": false,
+      "C) Canh chua": false,
+      "D) Thịt kho tộ": false
+    }
+  },
+  {
+    "question": "Món ăn truyền thống nào phổ biến trong người Chu Ru?",
+    "answers": {
+      "A) Canh măng": false,
+      "B) Gỏi cuốn": false,
+      "C) Canh chua": false,
+      "D) Thịt kho tộ": true
+    }
+  },
+  {
+    "question": "Nghệ thuật dệt may truyền thống nào phổ biến trong người Mạ?",
+    "answers": {
+      "A) Dệt vải": true,
+      "B) May áo dài": false,
+      "C) Dệt nón lá": false,
+      "D) May váy cưới": false
+    }
+  },
+  {
+    "question": "Nghệ thuật dệt may truyền thống nào phổ biến trong người Cơ Ho?",
+    "answers": {
+      "A) Dệt vải": false,
+      "B) May áo dài": false,
+      "C) Dệt nón lá": true,
+      "D) May váy cưới": false
+    }
+  },
+  {
+    "question": "Nghệ thuật dệt may truyền thống nào phổ biến trong người Chu Ru?",
+    "answers": {
+      "A) Dệt vải": false,
+      "B) May áo dài": true,
+      "C) Dệt nón lá": false,
+      "D) May váy cưới": false
+    }
+  },
+  {
+    "question": "Trong truyền thuyết của người Mạ, con người được hình thành từ đâu?",
+    "answers": {
+      "A) Gốc cây": false,
+      "B) Gốc rễ": true,
+      "C) Cây cỏ": false
+    }
+  }
+]

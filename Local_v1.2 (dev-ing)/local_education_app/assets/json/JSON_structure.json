@@ -1,0 +1,162 @@
+{
+  "users":[
+    {
+  "ID": "001",
+  "email": "001@dlu.edu.vn",
+  "password": "001",
+  "userName": "user1",
+  "firstName": "Minh",
+  "lastName": "Tran",
+  "institution": "Da Lat University",
+  "userProgress": [{
+    "topicID": "001",
+    "score": 90
+  },{
+    "topicID": "002",
+    "score": 40
+  }]
+},
+    {
+  "ID": "002",
+  "email": "002@dlu.edu.vn",
+  "password": "002",
+  "userName": "user2",
+  "firstName": "Khanh",
+  "lastName": "Nguyen",
+  "institution": "Da Lat University",
+  "userProgress": [{
+    "topicID": "001",
+    "score": 40
+  }]
+}
+
+  ],
+  "topics":[
+    {
+      "topicID": "TP01",
+      "title": "Lịch sử Lâm Đồng giai đoạn 1893-1945",
+      "description": "Quá trình phát hiện và quản lí, khai thác vùng đất Lâm Đồng thời Pháp thuộc; tình hình kinh tế – xã hội Lâm Đồng dưới sự thống trị của thực dân Pháp.",
+      "parts": [
+    {
+      "partID": "P01",
+      "title": "Vùng đất Lâm Đồng dưới sự thống trị của thực dân Pháp",
+      "type": [
+        {
+          "type":"image",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"video",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"VR",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"text",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        }
+      ]
+    },
+    {
+      "partID": "P02",
+      "title": "Sự ra đời của chi bộ Cộng sản đầu tiên và phong trào cách mạng 1930-1931 ở Lâm Viên - Đồng Nai thượng",
+      "type": [
+        {
+           "type":"image",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"video",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"VR",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"text",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        }
+      ]
+    },
+    {
+      "partID": "P03",
+      "title": "Phong trào cách mạng ở Lâm Viên",
+      "type": [
+        {
+           "type":"image",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"video",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"VR",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"text",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        }
+      ]
+    },
+    {
+      "partID": "P04",
+      "title": "Cách mạng tháng Tám năm 1945 ở Lâm Viên - Đồng Nai thượng",
+      "type": [
+        {
+           "type":"image",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"video",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"VR",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        },
+        {
+           "type":"text",
+          "mediaPath": "",
+          "content":"",
+          "viewStatus": 1
+        }
+      ]
+    }
+  ]
+    }
+  ]}

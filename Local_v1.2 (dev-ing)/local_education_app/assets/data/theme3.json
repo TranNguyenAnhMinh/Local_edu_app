@@ -1,0 +1,45 @@
+[
+  {
+    "categoryName": "Theme 3: Decoding the Language of Technology",
+    "type": "multipleChoices",
+    "question": "What is the binary representation of the number 10?",
+    "correctAnswers": ["1010"],
+    "incorrectAnswers": ["1101", "1001", "1110"]
+  },
+  {
+    "categoryName": "Theme 3: Decoding the Language of Technology",
+    "type": "multipleResponses",
+    "question": "What are the primary components of a computer system?",
+    "correctAnswers": ["CPU", "RAM", "Storage", "Input and output devices"],
+    "incorrectAnswers": [
+      "Operating system",
+      "Applications",
+      "Networking devices",
+      "Software"
+    ]
+  },
+  {
+    "categoryName": "Theme 3: Decoding the Language of Technology",
+    "type": "picture",
+    "path": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+    "question": "Identify the following computer components: motherboard, CPU, RAM, hard drive.",
+    "correctAnswers": ["This is the correct answer"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  },
+  {
+    "categoryName": "Theme 3: Decoding the Language of Technology",
+    "type": "video",
+    "path": "assets/videos/test.mp4",
+    "question": "Explain the concept of algorithms and their role in computing.",
+    "correctAnswers": ["Nothing here hehe"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  },
+  {
+    "categoryName": "Theme 3: Decoding the Language of Technology",
+    "type": "audio",
+    "path": "assets/audio/sample.mp3",
+    "question": "Listen to an interview with a software engineer about the development of artificial intelligence.",
+    "correctAnswers": ["Nothing here hehe"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  }
+]

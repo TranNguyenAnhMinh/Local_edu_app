@@ -1,0 +1,48 @@
+[
+  {
+    "categoryName": "Chuyên đề 1",
+    "type": "multipleChoices",
+    "question": "Theo bạn, yếu tố nào đã thúc đẩy thực dân Pháp tiến hành xâm lược và khám phá Lâm Đồng từ năm 1893?",
+    "correctAnswers": [
+      "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất."
+    ],
+    "incorrectAnswers": [
+      "Thời kỳ Cách mạng tháng Tám.",
+      "Sự phản kháng dữ dội của nhân dân.",
+      "Sự giáo dục và tôn trọng văn hóa bản địa."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 1",
+    "type": "multipleResponses",
+    "question": "Năm 1893, ai được giao nhiệm vụ thăm dò tuyến đường từ Sài Gòn lên Cao nguyên Trung phần, dẫn đến việc phát hiện cao nguyên đẹp như Lâm Viên?",
+    "correctAnswers": ["Alexandre Yersin", "Bác sĩ A.Yersin"],
+    "incorrectAnswers": ["Paul Doumer", "Phan Bội Châu"]
+  },
+  {
+    "categoryName": "Chuyên đề 1",
+    "type": "multipleResponses",
+    "question": "Các thay đổi chính trị và kinh tế chính ở Lâm Đồng dưới thời thuộc địa Pháp từ 1893 đến 1945 bao gồm những điều gì?",
+    "correctAnswers": [
+      "Thành lập thành phố Đà Lạt.",
+      "Khai thác tài nguyên tự nhiên."
+    ],
+    "incorrectAnswers": ["Thành lập tỉnh Lâm Viên", "Xây dựng tỉnh Djiring"]
+  },
+  {
+    "categoryName": "Chuyên đề 1",
+    "type": "picture",
+    "path": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Petit-Yersin.jpg",
+    "question": "Hãy cho biết đây là ai?",
+    "correctAnswers": ["Bác sĩ A.Yersin"],
+    "incorrectAnswers": ["Paul Doumer", "Galileo Galilei", "Rosalind Franklin"]
+  },
+  {
+    "categoryName": "Chuyên đề 1",
+    "type": "video",
+    "path": "assets/videos/VideoDalatPalace.mp4",
+    "question": "Đây là khách sạn nào được hoàn thành xây dựng và mở năm 1922?",
+    "correctAnswers": ["Dalat Palace"],
+    "incorrectAnswers": ["Dalat Blanc", "Colline", "Goldient Boutique"]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "categoryName": "Theme 2: Unraveling the Mysteries of Life",
+    "type": "multipleChoices",
+    "question": "What is the basic unit of life?",
+    "correctAnswers": ["A cell"],
+    "incorrectAnswers": ["An atom", "A molecule", "A tissue"]
+  },
+  {
+    "categoryName": "Theme 2: Unraveling the Mysteries of Life",
+    "type": "multipleResponses",
+    "question": "What are the four macromolecules essential for life?",
+    "correctAnswers": ["Carbohydrates", "Lipids", "Proteins", "Nucleic acids"],
+    "incorrectAnswers": ["Vitamins", "Minerals", "Water", "Enzymes"]
+  },
+  {
+    "categoryName": "Theme 2: Unraveling the Mysteries of Life",
+    "type": "picture",
+    "path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F566679565608932384%2F&psig=AOvVaw0QZ6Z4Z9Z2Z2Z2Z2Z2Z2Z2&ust=1623686145652000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjQ4ZqH0_ECFQAAAAAdAAAAABAD",
+    "question": "Identify the structure of a DNA molecule.",
+    "correctAnswers": ["This is the correct answer"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  },
+  {
+    "categoryName": "Theme 2: Unraveling the Mysteries of Life",
+    "type": "video",
+    "path": "assets/videos/test.mp4",
+    "question": "Explain the process of photosynthesis.",
+    "correctAnswers": ["Nothing here hehe"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  },
+  {
+    "categoryName": "Theme 2: Unraveling the Mysteries of Life",
+    "type": "audio",
+    "path": "assets/audio/sample.mp3",
+    "question": "Listen to a recording of the heartbeat of a human embryo.",
+    "correctAnswers": ["Nothing here hehe"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  }
+]

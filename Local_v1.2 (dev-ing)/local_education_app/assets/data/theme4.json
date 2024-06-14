@@ -1,0 +1,50 @@
+[
+  {
+    "categoryName": "Theme 4: Navigating the Labyrinth of History",
+    "type": "multipleChoices",
+    "question": "In what year did World War II begin?",
+    "correctAnswers": ["1939"],
+    "incorrectAnswers": ["1941", "1945", "1950"]
+  },
+  {
+    "categoryName": "Theme 4: Navigating the Labyrinth of History",
+    "type": "multipleResponses",
+    "question": "What were the major causes of the American Civil War?",
+    "correctAnswers": [
+      "Slavery",
+      "States' rights",
+      "Economic differences",
+      "Sectionalism"
+    ],
+    "incorrectAnswers": [
+      "Manifest Destiny",
+      "Westward expansion",
+      "Foreign policy disputes",
+      "Political corruption"
+    ]
+  },
+  {
+    "categoryName": "Theme 4: Navigating the Labyrinth of History",
+    "type": "picture",
+    "path": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Map_of_the_United_States_1803-04-1804-03.jpg/800px-Map_of_the_United_States_1803-04-1804-03.jpg",
+    "question": "Identify the following historical figures: Abraham Lincoln, Martin Luther King Jr., Marie Curie, Albert Einstein.",
+    "correctAnswers": ["This is the correct answer"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  },
+  {
+    "categoryName": "Theme 4: Navigating the Labyrinth of History",
+    "type": "video",
+    "path": "assets/videos/test.mp4",
+    "question": "Explain the significance of the Declaration of Independence in American history.",
+    "correctAnswers": ["Nothing here hehe"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  },
+  {
+    "categoryName": "Theme 4: Navigating the Labyrinth of History",
+    "type": "audio",
+    "path": "assets/audio/sample.mp3",
+    "question": "Listen to a recording of the speech 'I Have a Dream' by Martin Luther King Jr.",
+    "correctAnswers": ["Nothing here hehe"],
+    "incorrectAnswers": ["I don't know hehe", "What is this", "Oh no"]
+  }
+]

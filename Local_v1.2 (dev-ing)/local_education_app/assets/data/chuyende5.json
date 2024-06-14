@@ -1,0 +1,489 @@
+[
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo định nghĩa, đô thị hoá được biểu hiện như thế nào trong xã hội?",
+    "correctAnswers": [
+      "Sự tăng nhanh số lượng và quy mô của các điểm dân cư đô thị."
+    ],
+    "incorrectAnswers": [
+      "Sự tập trung dân cư trong vùng nông thôn.",
+      "Sự giảm bớt số lượng cư dân ở thành phố lớn.",
+      "Sự chuyển đổi từ đô thị sang nông thôn."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Tại sao đô thị hoá của Lâm Đồng được xem là cao nhất so với các tỉnh Tây Nguyên khác?",
+    "correctAnswers": [
+      "Tỉ lệ đô thị hoá cao nhất trong khu vực.",
+      "Số dân tập trung chủ yếu ở các đô thị lớn."
+    ],
+    "incorrectAnswers": [
+      "Dân số nông thôn ở Lâm Đồng ít hơn so với các tỉnh khác.",
+      "Đô thị hóa của Lâm Đồng không đáng chú ý."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Trong giai đoạn 2010 - 2020, tốc độ đô thị hoá của Lâm Đồng so với các tỉnh khác ở vùng Kinh tế trọng điểm phía Nam như thế nào?",
+    "correctAnswers": ["Tốc độ đô thị hoá của Lâm Đồng chậm hơn."],
+    "incorrectAnswers": [
+      "Tốc độ đô thị hoá của Lâm Đồng nhanh hơn.",
+      "Tốc độ đô thị hoá của Lâm Đồng tương đương với các tỉnh khác.",
+      "Không có sự khác biệt đáng kể về tốc độ đô thị hoá."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Các thành phố lớn nào là điểm tập trung chủ yếu của dân cư Lâm Đồng?",
+    "correctAnswers": ["Đà Lạt", "Bảo Lộc"],
+    "incorrectAnswers": ["Huyện Đức Trọng", "Huyện Di Linh"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Tại sao việc đẩy nhanh đô thị hoá của Lâm Đồng được coi là cần thiết?",
+    "correctAnswers": [
+      "Để theo kịp với các tỉnh khác trong khu vực về tốc độ đô thị hoá."
+    ],
+    "incorrectAnswers": [
+      "Đô thị hoá không có tác động lớn đến phát triển kinh tế - xã hội.",
+      "Lâm Đồng không cần phải tăng cường đô thị hoá."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo bạn, yếu tố nào đã thúc đẩy thực dân Pháp tiến hành xâm lược và khám phá Lâm Đồng từ năm 1893?",
+    "correctAnswers": [
+      "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất."
+    ],
+    "incorrectAnswers": [
+      "Thời kỳ Cách mạng tháng Tám.",
+      "Sự phản kháng dữ dội của nhân dân.",
+      "Sự giáo dục và tôn trọng văn hóa bản địa."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Năm 1893, ai được giao nhiệm vụ thăm dò tuyến đường từ Sài Gòn lên Cao nguyên Trung phần, dẫn đến việc phát hiện cao nguyên đẹp như Lâm Viên?",
+    "correctAnswers": ["Alexandre Yersin", "Bác sĩ A.Yersin"],
+    "incorrectAnswers": ["Paul Doumer", "Phan Bội Châu"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Tỉ lệ dân thành thị tại Lâm Đồng trong khoảng thời gian 2010 - 2020 đã thay đổi như thế nào?",
+    "correctAnswers": ["Tăng 1,26% so với năm 2010."],
+    "incorrectAnswers": [
+      "Giảm 1,26% so với năm 2010.",
+      "Tăng 5% so với năm 2010.",
+      "Không có sự thay đổi nào."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Điều gì là hạn chế chính của hệ thống giao thông đô thị tại Lâm Đồng?",
+    "correctAnswers": [
+      "Các tuyến đường quốc lộ đang xuống cấp như 55, 27, 28.",
+      "Thiếu tính đồng bộ trong việc liên kết vùng."
+    ],
+    "incorrectAnswers": [
+      "Đường cao tốc kết nối với các tỉnh miền Đông Nam Bộ.",
+      "Tốc độ đô thị hóa không tương xứng với tiềm năng."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo thông tin, vào năm 2020, việc thu hút đầu tư trực tiếp của nước ngoài vào phát triển đô thị Lâm Đồng đã đạt được bao nhiêu dự án mới?",
+    "correctAnswers": ["03 dự án cấp phép mới."],
+    "incorrectAnswers": [
+      "10 dự án cấp phép mới.",
+      "Không có dự án nào được cấp phép mới.",
+      "50 dự án cấp phép mới."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo thông tin đưa ra, tỉ suất di cư thuần của Lâm Đồng giảm từ năm 2010 đến năm 2020 do nguyên nhân gì?",
+    "correctAnswers": [
+      "Người dân di cư sang các tỉnh khác để đi làm, đi học, ..."
+    ],
+    "incorrectAnswers": [
+      "Sự tăng trưởng kinh tế trong tỉnh.",
+      "Sự giảm đầu tư vào đô thị hoá.",
+      "Sự thay đổi chính sách di cư của chính phủ."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo thông tin, mức độ tập trung dân cư của Lâm Đồng không cao nhất ở đâu?",
+    "correctAnswers": ["Huyện Lạc Dương"],
+    "incorrectAnswers": [
+      "Thành phố Đà Lạt.",
+      "Huyện Đức Trọng.",
+      "Huyện Đơn Dương."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Theo thông tin, đô thị hoá ảnh hưởng đến các khía cạnh nào của tỉnh Lâm Đồng? (Chọn tất cả các đáp án đúng)",
+    "correctAnswers": [
+      "Sự phân bố dân cư.",
+      "Cơ cấu kinh tế.",
+      "Tỉ lệ thất nghiệp và việc làm."
+    ],
+    "incorrectAnswers": ["Đầu tư vào nông nghiệp.", "Quy mô dân số tỉnh."]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo thông tin, tỉ lệ thất nghiệp trong độ tuổi lao động năm 2020 của tỉnh Lâm Đồng giảm đến mức nào so với năm 2010?",
+    "correctAnswers": ["Giảm từ 2,77% xuống còn 1%"],
+    "incorrectAnswers": [
+      "Tăng lên 5%.",
+      "Giữ nguyên ở mức 2,77%.",
+      "Giảm xuống 0,5%."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Theo thông tin, đô thị hoá có ảnh hưởng đến những gì trong tỉnh Lâm Đồng? (Chọn tất cả các đáp án đúng)",
+    "correctAnswers": [
+      "Sự phân bố không đồng đều của dân cư.",
+      "Cơ cấu lao động theo ngành và trình độ học vấn."
+    ],
+    "incorrectAnswers": ["Tỉ suất di cư.", "Tỷ lệ dân số đô thị."]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo thông tin, tại đâu có mật độ dân số thấp nhất ở tỉnh Lâm Đồng năm 2020?",
+    "correctAnswers": ["Huyện Lạc Dương"],
+    "incorrectAnswers": [
+      "Thành phố Đà Lạt.",
+      "Huyện Đức Trọng.",
+      "Huyện Đơn Dương."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo thông tin, trong khu vực nào của tỉnh Lâm Đồng dân cư tập trung sống nhiều nhất?",
+    "correctAnswers": [
+      "Ven các đường quốc lộ, ven các thị trấn như ở thành phố Bảo Lộc, Đà Lạt, huyện Đức Trọng, huyện Đơn Dương."
+    ],
+    "incorrectAnswers": [
+      "Khu vực nông thôn.",
+      "Các huyện Đam Rông, Đạ Tẻh.",
+      "Thành phố Đà Lạt."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Theo thông tin, đô thị hoá có ảnh hưởng đến các khía cạnh nào trong tỉnh Lâm Đồng? (Chọn tất cả các đáp án đúng)",
+    "correctAnswers": [
+      "Sự phát triển kinh tế.",
+      "Thay đổi cơ cấu lao động theo ngành và trình độ học vấn."
+    ],
+    "incorrectAnswers": [
+      "Sự thay đổi tỷ lệ di cư.",
+      "Sự tăng trưởng dân số đô thị."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo thông tin, tỉ lệ thiếu việc làm ở khu vực nào có xu hướng thấp nhất trong tỉnh Lâm Đồng năm 2020?",
+    "correctAnswers": ["Khu vực nông thôn."],
+    "incorrectAnswers": [
+      "Thành phố Đà Lạt.",
+      "Khu vực công nghiệp và dịch vụ.",
+      "Huyện Đơn Dương."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Theo thông tin, đô thị hoá ảnh hưởng đến những gì trong tỉnh Lâm Đồng? (Chọn tất cả các đáp án đúng)",
+    "correctAnswers": [
+      "Sự phân bố không đồng đều của dân cư.",
+      "Thay đổi cơ cấu lao động theo ngành và trình độ học vấn."
+    ],
+    "incorrectAnswers": [
+      "Sự tăng trưởng dân số đô thị.",
+      "Sự thay đổi tỷ suất di cư."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Các hoạt động nào sau đây gây ô nhiễm cục bộ tại một số nơi trong quá trình đô thị hoá?",
+    "correctAnswers": ["Công nghiệp", "Khai thác khoáng sản"],
+    "incorrectAnswers": ["Du lịch", "Nông nghiệp"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo Cục thống kê, tỷ lệ thu gom rác đạt bao nhiêu phần trăm trên địa bàn tỉnh Lâm Đồng?",
+    "correctAnswers": ["88,2%"],
+    "incorrectAnswers": ["99%", "11,8%"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Các biện pháp nào sau đây Đà Lạt đã thực hiện để bảo vệ môi trường?",
+    "correctAnswers": [
+      "Tăng diện tích phủ xanh đô thị",
+      "Tăng cường trồng thêm cây xanh",
+      "Áp dụng công nghệ mới theo hướng công nghệ sạch",
+      "Tăng cường công tác quan trắc, giám sát môi trường"
+    ],
+    "incorrectAnswers": ["Tăng tỷ lệ thu gom rác đến 100%"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Những đơn vị nào sau đây đã có hoạt động xử lí chất thải rắn tại Lâm Đồng?",
+    "correctAnswers": ["Đà Lạt", "Bảo Lộc", "Đơn Dương"],
+    "incorrectAnswers": ["Sài Gòn"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo thông tin cung cấp, thành phố nào trong Lâm Đồng có tỉ lệ thu gom rác thải sinh hoạt không đạt 100%?",
+    "correctAnswers": ["Đà Lạt"],
+    "incorrectAnswers": ["Bảo Lộc", "Đơn Dương"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Đâu là một trong những nguyên nhân chính gây ô nhiễm môi trường nước tại các thành phố trong tỉnh Lâm Đồng?",
+    "correctAnswers": ["Xả thải từ công nghiệp"],
+    "incorrectAnswers": [
+      "Sự gia tăng diện tích xanh",
+      "Sự tăng cường trồng cây",
+      "Sự giảm lượng rác thải"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo thông tin cung cấp, tại thành phố nào trong Lâm Đồng có lượng rác thải sinh hoạt phát sinh hàng ngày ít nhất?",
+    "correctAnswers": ["Bảo Lộc"],
+    "incorrectAnswers": ["Đà Lạt", "Đơn Dương"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Các biện pháp nào sau đây có thể giúp giảm ô nhiễm môi trường nước tại Lâm Đồng?",
+    "correctAnswers": [
+      "Xử lí thải nước từ công nghiệp",
+      "Tăng cường giám sát chất lượng nước",
+      "Giảm sử dụng hóa chất độc hại trong nông nghiệp"
+    ],
+    "incorrectAnswers": ["Tăng cường duy trì môi trường tự nhiên nguyên thủy"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo thông tin cung cấp, tỉ lệ thu gom rác thải sinh hoạt ở Đà Lạt đạt bao nhiêu phần trăm?",
+    "correctAnswers": ["99%"],
+    "incorrectAnswers": ["88,2%", "100%"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Hoạt động nào gây ô nhiễm không khí trong quá trình đô thị hoá?",
+    "correctAnswers": ["Công nghiệp", "Giao thông"],
+    "incorrectAnswers": ["Trồng cây", "Du lịch"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo chiến lược định hướng, thành phố nào trong Lâm Đồng được xác định là trung tâm tiểu vùng và kết nối giao thương của vùng tỉnh với các vùng lân cận?",
+    "correctAnswers": ["Bảo Lộc"],
+    "incorrectAnswers": ["Đà Lạt", "Di Linh", "Đức Trọng"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Theo định hướng, những đô thị nào được xác định là các đô thị theo chức năng tổng hợp?",
+    "correctAnswers": [
+      "Đức Trọng",
+      "Thạnh Mỹ",
+      "Lạc Dương",
+      "Lộc Thắng",
+      "Đinh Văn",
+      "Madaguôi",
+      "Đạ Tẻh",
+      "Bằng Lăng",
+      "Cát Tiên"
+    ],
+    "incorrectAnswers": ["Di Linh", "Bảo Lộc", "Đà Lạt", "Nam Ban"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Đô thị nào được xác định là đô thị trung tâm thương mại dịch vụ cấp vùng trong tỉnh Lâm Đồng?",
+    "correctAnswers": ["Di Linh"],
+    "incorrectAnswers": ["Đà Lạt", "Bảo Lộc", "Đức Trọng", "D'ran"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Theo dự kiến, đến năm 2025, tỉ lệ đô thị hoá ở Lâm Đồng sẽ đạt bao nhiêu phần trăm và có bao nhiêu đô thị loại II?",
+    "correctAnswers": ["54%", "01"],
+    "incorrectAnswers": ["58,8%", "22"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo kế hoạch, đô thị nào sẽ được phát triển để trở thành đô thị hiện đại, đẳng cấp quốc tế với đặc thù về khí hậu, cảnh quan tự nhiên và di sản kiến trúc?",
+    "correctAnswers": ["Đà Lạt"],
+    "incorrectAnswers": ["Bảo Lộc", "Di Linh", "Đức Trọng", "D'ran"]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Đâu không phải là một trong những giải pháp cụ thể cho việc phát triển đô thị bền vững ở Lâm Đồng?",
+    "correctAnswers": ["Sự phát triển các khu công nghiệp lớn"],
+    "incorrectAnswers": [
+      "Hoàn thiện cơ chế, chính sách cho quá trình đô thị hoá",
+      "Xác định tập trung đầu tư dự án công trình trọng điểm",
+      "Ưu tiên đầu tư khoa học công nghệ trong phát triển đô thị"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Các giải pháp nào được đề xuất để phát triển nguồn nhân lực chất lượng cao trong liên quan đến phát triển đô thị ở Lâm Đồng?",
+    "correctAnswers": [
+      "Tập trung giải pháp phát triển nguồn nhân lực chất lượng cao",
+      "Ưu tiên đầu tư khoa học công nghệ trong phát triển đô thị"
+    ],
+    "incorrectAnswers": [
+      "Tập trung xây dựng các khu dân cư mới",
+      "Tăng cường quản lý hạ tầng đô thị"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Trong việc phát triển đô thị ở Lâm Đồng, điều gì được đề cập như một phần quan trọng của quá trình này?",
+    "correctAnswers": [
+      "Hiện đại hóa hạ tầng đô thị để thích ứng với biến đổi khí hậu"
+    ],
+    "incorrectAnswers": [
+      "Tập trung mở rộng đất đai cho các dự án xây dựng mới",
+      "Thúc đẩy việc xây dựng các khu công nghiệp quy mô lớn",
+      "Tăng cường quản lý hạ tầng nông thôn"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Theo nội dung, những giải pháp nào được đề xuất để huy động các nguồn vốn để phát triển đô thị xanh và sinh thái bền vững?",
+    "correctAnswers": [
+      "Tập trung giải pháp huy động các nguồn vốn",
+      "Cơ chế khuyến khích các dự án phát triển đô thị xanh"
+    ],
+    "incorrectAnswers": [
+      "Xây dựng các công trình hạ tầng cao ốc",
+      "Phát triển khu dân cư mới"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo nội dung, cái gì được xác định là mục tiêu tập trung đầu tư dự án công trình đô thị?",
+    "correctAnswers": [
+      "Thu hút nguồn lực, phát triển hệ thống hạ tầng đô thị đồng bộ, hiện đại, liên kết"
+    ],
+    "incorrectAnswers": [
+      "Xây dựng nhiều tòa nhà cao tầng",
+      "Tập trung vào việc mở rộng mạng lưới giao thông",
+      "Phát triển các công trình dân dụng nhỏ"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo Quyết định 704/QĐ-TTg, ngày 12/5/2014 của Thủ tướng Chính phủ, mục tiêu chính của quy hoạch phát triển Đà Lạt giai đoạn tiếp theo là gì?",
+    "correctAnswers": [
+      "Xây dựng thành phố Đà Lạt thành đô thị hiện đại, thành phố sáng tạo, trung tâm du lịch sinh thái, nghỉ dưỡng cao cấp."
+    ],
+    "incorrectAnswers": [
+      "Tăng cường sản xuất nông nghiệp và phát triển các khu vực nông thôn.",
+      "Mở rộng không gian đô thị một cách ngẫu nhiên và không có kế hoạch.",
+      "Tập trung vào việc phát triển các công trình công cộng lớn như sân bay và các trung tâm mua sắm."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Theo quy hoạch phát triển 'Thành phố trong rừng, rừng trong thành phố', mục tiêu chính là gì?",
+    "correctAnswers": [
+      "Gắn kết thành phố Đà Lạt với cảnh quan tự nhiên và văn hóa, bảo tồn di sản danh lam thắng cảnh."
+    ],
+    "incorrectAnswers": [
+      "Loại bỏ hoàn toàn các khu vực rừng để xây dựng đô thị.",
+      "Phát triển thành phố mà không cần quan tâm đến việc bảo tồn môi trường.",
+      "Tập trung vào việc xây dựng các công trình công cộng lớn như khu vui chơi giải trí."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Theo quy hoạch phát triển Bảo Lộc, những mục tiêu nào được đề ra để thúc đẩy phát triển của đô thị này?",
+    "correctAnswers": [
+      "Mở rộng và xây dựng đô thị Bảo Lộc phát triển bền vững.",
+      "Hoàn thiện, nâng cao chất lượng các tiêu chí đô thị loại II.",
+      "Đẩy nhanh quá trình triển khai các dự án hạ tầng giao thông."
+    ],
+    "incorrectAnswers": [
+      "Giảm bớt diện tích đô thị để tạo không gian cho nông nghiệp.",
+      "Tập trung chỉ vào việc xây dựng các công trình cao ốc chọc trời.",
+      "Loại bỏ hoàn toàn bản sắc văn hóa đặc thù của Bảo Lộc."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleChoices",
+    "question": "Để Bảo Lộc trở thành đô thị sinh thái hiện đại, quy hoạch nhấn mạnh vào việc gì?",
+    "correctAnswers": [
+      "Hạ tầng xã hội theo chiến lược tăng trưởng xanh, thân thiện với môi trường."
+    ],
+    "incorrectAnswers": [
+      "Tăng cường xây dựng các khu đô thị cao cấp.",
+      "Phát triển mạnh mẽ ngành công nghiệp không gây ảnh hưởng đến môi trường.",
+      "Mở rộng diện tích đô thị mà không có kế hoạch bảo vệ môi trường."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 5",
+    "type": "multipleResponses",
+    "question": "Theo kế hoạch phát triển đô thị thông minh Đà Lạt giai đoạn 2018 – 2025, những điểm nào được đề cao để thực hiện mục tiêu này?",
+    "correctAnswers": [
+      "Triển khai thí điểm 'làng đô thị xanh', 'nông nghiệp đô thị' kết hợp với phát triển du lịch, dịch vụ.",
+      "Xây dựng thành phố thông minh gắn kết với quy hoạch phát triển đô thị hiện đại."
+    ],
+    "incorrectAnswers": [
+      "Tập trung vào việc xây dựng các công trình công cộng lớn như trung tâm thương mại.",
+      "Loại bỏ hoàn toàn các khu vực rừng tự nhiên để mở rộng đô thị.",
+      "Phát triển các khu dân cư phía Bắc mà không kết"
+    ]
+  }
+]

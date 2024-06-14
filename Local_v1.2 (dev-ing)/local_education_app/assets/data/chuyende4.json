@@ -1,0 +1,464 @@
+[
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Theo bạn, yếu tố nào đã thúc đẩy thực dân Pháp tiến hành xâm lược và khám phá Lâm Đồng từ năm 1893?",
+    "correctAnswers": [
+      "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất."
+    ],
+    "incorrectAnswers": [
+      "Thời kỳ Cách mạng tháng Tám.",
+      "Sự phản kháng dữ dội của nhân dân.",
+      "Sự giáo dục và tôn trọng văn hóa bản địa."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Năm 1893, ai được giao nhiệm vụ thăm dò tuyến đường từ Sài Gòn lên Cao nguyên Trung phần, dẫn đến việc phát hiện cao nguyên đẹp như Lâm Viên?",
+    "correctAnswers": ["Alexandre Yersin", "Bác sĩ A.Yersin"],
+    "incorrectAnswers": ["Paul Doumer", "Phan Bội Châu"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Ai là người đã đặt tên cho cao nguyên đẹp như Lâm Viên?",
+    "correctAnswers": ["Henri Mansuy"],
+    "incorrectAnswers": ["Alexandre Yersin", "Paul Doumer", "Phan Bội Châu"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Người Pháp nào đã đóng góp cho việc khám phá, phát triển Lâm Đồng?",
+    "correctAnswers": ["Henri Mansuy", "Paul Doumer"],
+    "incorrectAnswers": ["Alexandre Yersin", "Phan Bội Châu"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Nguyên nhân chính gây ra cuộc kháng chiến Yên Thế?",
+    "correctAnswers": ["Sự áp bức của chính quyền thuộc địa Pháp."],
+    "incorrectAnswers": [
+      "Nguyên tắc cải cách hệ thống chính trị.",
+      "Sự thiếu hụt văn hóa dân tộc.",
+      "Sự giáo dục và tôn trọng văn hóa bản địa."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Nền kinh tế chủ yếu của tỉnh Lâm Đồng, đặc biệt là trong lĩnh vực nông nghiệp công nghệ cao là gì?",
+    "correctAnswers": ["Nông nghiệp"],
+    "incorrectAnswers": ["Khai thác mỏ", "Sản xuất công nghiệp", "Du lịch"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Điều gì đã góp phần quan trọng vào việc tăng năng suất nông nghiệp ở tỉnh Lâm Đồng?",
+    "correctAnswers": ["Áp dụng các mô hình canh tác hiệu quả"],
+    "incorrectAnswers": [
+      "Chính sách hỗ trợ của chính phủ",
+      "Sự thay đổi khí hậu",
+      "Sự suy giảm nhu cầu về sản phẩm nông nghiệp"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Các khu vực nào ở Lâm Đồng nổi tiếng với sản xuất nông nghiệp chuyên môn và các sản phẩm được chứng nhận an toàn?",
+    "correctAnswers": [
+      "Đà Lạt",
+      "Lạc Dương",
+      "Đơn Dương",
+      "Đức Trọng",
+      "Lâm Hà"
+    ],
+    "incorrectAnswers": ["Bảo Lộc", "Di Linh", "Đạ Tẻh", "Bảo Lâm"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Loại động vật nào được nuôi chủ yếu ở Lâm Đồng để sản xuất thịt?",
+    "correctAnswers": ["Lợn, bò"],
+    "incorrectAnswers": ["Ngựa, cừu", "Gà, vịt", "Cá, thỏ"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Những sản phẩm nông nghiệp chính được chứng nhận theo tiêu chuẩn VietGAP và GlobalGAP ở tỉnh Lâm Đồng là gì?",
+    "correctAnswers": ["Hoa, rau, trái cây"],
+    "incorrectAnswers": ["Cà phê, trà", "Lúa, lúa mạch", "Gia vị, thảo mộc"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Năm 2020, tỉnh Lâm Đồng đã sản xuất bao nhiêu tấn lương thực có hạt?",
+    "correctAnswers": ["Gần 190 nghìn tấn"],
+    "incorrectAnswers": [
+      "Gần 100 nghìn tấn",
+      "Trên 200 nghìn tấn",
+      "Dưới 50 nghìn tấn"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Nơi nào trong tỉnh Lâm Đồng chủ yếu nuôi gia cầm?",
+    "correctAnswers": [
+      "Thành phố Bảo Lộc và các huyện Bảo Lâm, Di Linh, Đức Trọng và Lâm Hà"
+    ],
+    "incorrectAnswers": [
+      "Các huyện Đơn Dương, Đức Trọng",
+      "Thành phố Đà Lạt",
+      "Các huyện Đạ Tẻh, Lạc Dương"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Các phương pháp canh tác hiệu quả được áp dụng trong nông nghiệp ở Lâm Đồng bao gồm những gì?",
+    "correctAnswers": [
+      "Công nghệ trồng thuỷ canh",
+      "Công nghệ tưới nhỏ giọt",
+      "Cấy ghép mô trong phòng thí nghiệm",
+      "Trồng trong nhà kính",
+      "Nhà lưới"
+    ],
+    "incorrectAnswers": [
+      "Công nghệ truyền thống",
+      "Phương pháp canh tác tự nhiên"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Trong thời gian gần đây, tỉnh Lâm Đồng chú trọng phát triển loại cây nào có giá trị hàng hoá cao và chất lượng ngày càng tốt?",
+    "correctAnswers": [
+      "Cây đặc sản, dược liệu, cây ăn quả đặc sản của vùng ôn đới"
+    ],
+    "incorrectAnswers": [
+      "Cây lúa, cây hoa",
+      "Cây cà phê, cây chè",
+      "Cây rau, cây quả"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Sản lượng thịt lợn hơi xuất chuồng ở tỉnh Lâm Đồng đạt bao nhiêu tấn vào năm 2020?",
+    "correctAnswers": ["Hơn 64 nghìn tấn"],
+    "incorrectAnswers": [
+      "Dưới 30 nghìn tấn",
+      "50 nghìn tấn",
+      "Trên 100 nghìn tấn"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Theo bạn, yếu tố nào đã thúc đẩy thực dân Pháp tiến hành xâm lược và khám phá Lâm Đồng từ năm 1893?",
+    "correctAnswers": [
+      "Sự phát hiện cao nguyên Lâm Viên và tiềm năng kinh tế của vùng đất."
+    ],
+    "incorrectAnswers": [
+      "Thời kỳ Cách mạng tháng Tám.",
+      "Sự phản kháng dữ dội của nhân dân.",
+      "Sự giáo dục và tôn trọng văn hóa bản địa."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Năm 1893, ai được giao nhiệm vụ thăm dò tuyến đường từ Sài Gòn lên Cao nguyên Trung phần, dẫn đến việc phát hiện cao nguyên đẹp như Lâm Viên?",
+    "correctAnswers": ["Alexandre Yersin", "Bác sĩ A.Yersin"],
+    "incorrectAnswers": ["Paul Doumer", "Phan Bội Châu"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Năm nào diện tích rừng bị cháy tăng mạnh nhất so với năm trước đó?",
+    "correctAnswers": ["Năm 2020"],
+    "incorrectAnswers": ["Năm 2019", "Năm 2015", "Năm 2021"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Theo thông tin được cung cấp, những hoạt động nào được đề xuất để phát triển bền vững ngành lâm nghiệp ở Lâm Đồng?",
+    "correctAnswers": [
+      "Trồng mới rừng tập trung",
+      "Bảo vệ diện tích rừng hiện có",
+      "Tăng cường khai thác các loại lâm sản dưới tán rừng"
+    ],
+    "incorrectAnswers": [
+      "Gia tăng diện tích chặt phá rừng",
+      "Giảm diện tích rừng sản xuất trồng mới"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Những huyện nào có tỉ lệ che phủ rừng lớn nhất?",
+    "correctAnswers": ["Cát Tiên", "Đạ Huoai", "Đạ Tẻh"],
+    "incorrectAnswers": ["Bảo Lâm", "Di Linh", "Đạ Huoai"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Trong năm 2020, tỉnh Lâm Đồng sản xuất bao nhiêu tấn thuỷ sản?",
+    "correctAnswers": ["8,566.2 tấn"],
+    "incorrectAnswers": ["8,289.7 tấn", "276.5 tấn", "10,000 tấn"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Các huyện nào trong tỉnh Lâm Đồng tập trung sản lượng thuỷ sản khai thác vào năm 2020?",
+    "correctAnswers": ["Lâm Hà", "Di Linh"],
+    "incorrectAnswers": ["Đức Trọng", "Bảo Lâm"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Định hướng phát triển nông nghiệp của tỉnh Lâm Đồng đến năm 2050 nhấn mạnh vào điều gì?",
+    "correctAnswers": ["Phát triển nông nghiệp công nghệ cao"],
+    "incorrectAnswers": [
+      "Mô hình nông nghiệp truyền thống",
+      "Tăng cường sản xuất nông nghiệp xanh"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Mục tiêu của việc tạo ra các giống mới trong nông nghiệp là gì?",
+    "correctAnswers": ["Thích ứng với biến đổi khí hậu và môi trường"],
+    "incorrectAnswers": [
+      "Tăng cường sản lượng nông sản",
+      "Đa dạng hóa cây trồng"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Nguồn lực nào được nhấn mạnh trong việc phát triển nông nghiệp của tỉnh Lâm Đồng?",
+    "correctAnswers": ["Khoa học - Công nghệ", "Nguồn tài nguyên sạch"],
+    "incorrectAnswers": ["Vốn đầu tư lớn", "Lực lượng lao động"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Công nghiệp ảnh hưởng như thế nào đến đời sống người dân Lâm Đồng?",
+    "correctAnswers": [
+      "Nâng cao chất lượng cuộc sống và tạo việc làm cho nguồn lao động."
+    ],
+    "incorrectAnswers": [
+      "Tạo ra những vấn đề môi trường mới.",
+      "Giảm sự phát triển kinh tế tỉnh.",
+      "Không có ảnh hưởng nào đến đời sống người dân."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Ngành công nghiệp ở Lâm Đồng góp phần vào việc nào sau đây?",
+    "correctAnswers": [
+      "Tăng trưởng kinh tế tỉnh và cung cấp hàng tiêu dùng cho người dân."
+    ],
+    "incorrectAnswers": [
+      "Giảm cơ cấu kinh tế tỉnh.",
+      "Gây ra tình trạng thất nghiệp gia tăng.",
+      "Không ảnh hưởng gì đến tăng trưởng kinh tế tỉnh."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Tỷ trọng công nghiệp trong cơ cấu kinh tế của tỉnh Lâm Đồng thay đổi như thế nào theo thời gian?",
+    "correctAnswers": ["Tăng lên theo hướng tích cực."],
+    "incorrectAnswers": [
+      "Giảm đi dần từng năm.",
+      "Không có sự biến đổi gì.",
+      "Chỉ tăng trưởng ở giai đoạn 2011 - 2015."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Các kết quả tích cực mà ngành công nghiệp góp phần đối với Lâm Đồng là gì?",
+    "correctAnswers": [
+      "Nâng cao chất lượng cuộc sống.",
+      "Tăng thu nhập cho nguồn lao động.",
+      "Cung cấp hàng tiêu dùng cho người dân."
+    ],
+    "incorrectAnswers": [
+      "Gây ô nhiễm môi trường.",
+      "Giảm thu nhập cho nguồn lao động.",
+      "Không có tác động tích cực nào."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Những biến đổi mà ngành công nghiệp gây ra trong không gian kinh tế - xã hội - môi trường địa phương là gì?",
+    "correctAnswers": ["Tạo việc làm.", "Thay đổi tác phong làm việc."],
+    "incorrectAnswers": [
+      "Giảm cung cấp hàng tiêu dùng.",
+      "Không có biến đổi gì đáng kể."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Đối với người lao động, ngành công nghiệp ở Lâm Đồng có ảnh hưởng như thế nào?",
+    "correctAnswers": ["Tạo ra cơ hội việc làm và tăng thu nhập."],
+    "incorrectAnswers": [
+      "Gây ra sự mất mát việc làm.",
+      "Không có ảnh hưởng gì đến người lao động.",
+      "Chỉ ảnh hưởng đến những người làm trong lĩnh vực công nghiệp."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Tại sao ngành công nghiệp được coi là một phần quan trọng trong phát triển kinh tế tỉnh Lâm Đồng?",
+    "correctAnswers": [
+      "Góp phần tăng trưởng kinh tế và cung cấp sản phẩm cho thị trường tiêu thụ."
+    ],
+    "incorrectAnswers": [
+      "Chỉ tạo ra hàng hóa không cần thiết.",
+      "Gây ra khí thải môi trường độc hại.",
+      "Không có ảnh hưởng đáng kể nào đối với kinh tế tỉnh."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Những cơ sở sản xuất công nghiệp ở Lâm Đồng thường tập trung ở đâu?",
+    "correctAnswers": ["Các khu công nghiệp hoặc cụm công nghiệp."],
+    "incorrectAnswers": [
+      "Các khu dân cư trung tâm.",
+      "Vùng quê xa xôi và hẻo lánh.",
+      "Không có sự tập trung cụ thể nào."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Công nghiệp ở Lâm Đồng gây ra những tác động tích cực nào đối với môi trường?",
+    "correctAnswers": [
+      "Tạo ra việc làm cho người dân địa phương.",
+      "Phát triển cơ sở hạ tầng kỹ thuật.",
+      "Tăng cường sử dụng nguồn năng lượng sạch."
+    ],
+    "incorrectAnswers": [
+      "Gây ra ô nhiễm không khí và nước.",
+      "Giảm đa dạng sinh học.",
+      "Không gây ra tác động tích cực nào đối với môi trường."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Những điều kiện gì đã tạo điều kiện thuận lợi cho sự phát triển của ngành công nghiệp ở Lâm Đồng?",
+    "correctAnswers": [
+      "Vị trí địa lý thuận lợi.",
+      "Nguyên liệu dồi dào từ thiên nhiên.",
+      "Sự đầu tư và hỗ trợ từ chính quyền địa phương."
+    ],
+    "incorrectAnswers": [
+      "Khí hậu không ổn định.",
+      "Sự phản đối từ cộng đồng dân cư.",
+      "Không có điều kiện thuận lợi nào."
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Tính đến năm 2020, tỉ trọng công nghiệp trong GRDP của tỉnh Lâm Đồng là bao nhiêu phần trăm?",
+    "correctAnswers": ["Gần 20%"],
+    "incorrectAnswers": ["Dưới 10%", "Khoảng 30%", "Trên 40%"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Những ngành công nghiệp chủ lực của tỉnh Lâm Đồng vào năm 2020 bao gồm những sản phẩm nào?",
+    "correctAnswers": [
+      "Chè",
+      "Cà phê chế biến",
+      "Rau sấy khô",
+      "Quần áo may sẵn",
+      "Gạch xây dựng",
+      "Alumin",
+      "Phân bón NPK"
+    ],
+    "incorrectAnswers": ["Sản phẩm dệt may", "Đồ gốm sứ"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Tại sao các ngành công nghiệp chế biến, chế tạo được ưu tiên phát triển ở tỉnh Lâm Đồng?",
+    "correctAnswers": [
+      "Tận vùng nguyên liệu, nhân lực có kinh nghiệm sản xuất, sử dụng công nghệ hiện đại, thân thiện môi trường"
+    ],
+    "incorrectAnswers": [
+      "Ưu tiên chính sách hỗ trợ",
+      "Dự án đầu tư lớn từ nước ngoài"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Trong những năm gần đây, tốc độ tăng trưởng giá trị sản xuất công nghiệp của Lâm Đồng là bao nhiêu phần trăm trung bình mỗi năm?",
+    "correctAnswers": ["10,2%"],
+    "incorrectAnswers": ["Dưới 5%", "Khoảng 15%", "Trên 20%"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Các ngành tiểu thủ công nghiệp truyền thống phát triển ở Lâm Đồng bao gồm những sản phẩm nào?",
+    "correctAnswers": [
+      "Mĩ nghệ",
+      "Đan lát mây tre nứa",
+      "Tranh thêu",
+      "Tranh bút lửa"
+    ],
+    "incorrectAnswers": ["Công nghiệp gỗ", "Sản phẩm sơn mài"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Trong số các cơ sở sản xuất công nghiệp tiêu biểu của Lâm Đồng, cơ sở sản xuất nào thu hút đầu tư nước ngoài?",
+    "correctAnswers": ["Nhà máy sản xuất Dược phẩm Nanogen"],
+    "incorrectAnswers": [
+      "Nhà máy bia Sài Gòn – Lâm Đồng",
+      "Nhà máy Sợi len lông cừu",
+      "Tổ hợp bôxit nhôm"
+    ]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Năm nào có sự tập trung lớn của lực lượng lao động vào ngành công nghiệp chế biến, chế tạo tại Lâm Đồng?",
+    "correctAnswers": ["Năm 2020"],
+    "incorrectAnswers": ["Năm 2021", "Năm 2019", "Năm 2018"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Các khu công nghiệp nào thuộc tỉnh Lâm Đồng đã thu hút số lượng dự án đầu tư nước ngoài?",
+    "correctAnswers": ["Khu công nghiệp Lộc Sơn", "Khu công nghiệp Phú Hội"],
+    "incorrectAnswers": ["Cụm công nghiệp Gia Hiệp", "Cụm công nghiệp Đinh Văn"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleChoices",
+    "question": "Vùng đất nào đã được phát hiện và đánh giá có tiềm năng kinh tế, thúc đẩy sự phát triển của công nghiệp ở Lâm Đồng?",
+    "correctAnswers": ["Cao nguyên Lâm Viên"],
+    "incorrectAnswers": ["Đồi chè Cầu Đất", "Rừng thông Đà Lạt", "Thác Datanla"]
+  },
+  {
+    "categoryName": "Chuyên đề 4",
+    "type": "multipleResponses",
+    "question": "Năm 2021, nhóm huyện nào tập trung chủ yếu các cơ sở sản xuất công nghiệp tại Lâm Đồng?",
+    "correctAnswers": ["Lâm Hà", "Đức Trọng", "Di Linh"],
+    "incorrectAnswers": ["Bảo Lộc", "Đà Lạt"]
+  }
+]
